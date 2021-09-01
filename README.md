@@ -1,2 +1,2 @@
-# do-me-why
+# do(Y)
 Surveys of Causal ML
