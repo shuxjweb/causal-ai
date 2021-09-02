@@ -27,7 +27,16 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization** (Ahuja et al. 2021) [[paper](https://arxiv.org/pdf/2106.06607.pdf)]
 
 ### Causal Mechanisms Learning
-1. **Learning Independent Causal Mechanisms** (Parascandolo et al. 2018) [[paper](http://proceedings.mlr.press/v80/parascandolo18a/parascandolo18a.pdf)]
-2. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms** (Bengio et al. 2020) [[paper](https://openreview.net/pdf?id=ryxWIgBFPS)]
+1. **Discovering Causal Signals in Images** (Lopez-Paz et al. 2017) [[paper](https://arxiv.org/pdf/1605.08179.pdf)]
+2. **Learning Independent Causal Mechanisms** (Parascandolo et al. 2018) [[paper](http://proceedings.mlr.press/v80/parascandolo18a/parascandolo18a.pdf)]
+3. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms** (Bengio et al. 2020) [[paper](https://openreview.net/pdf?id=ryxWIgBFPS)]
+
+### Applications
+
+#### 1. Visual-Language Tasks
+* **Visual Commonsense R-CNN** (Wang et al. 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf)]
+* **Two Causal Principles for Improving Visual Dialog** (Qi et al. 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.pdf)]
+* **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
+* **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
    
 
