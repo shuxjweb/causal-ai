@@ -5,7 +5,7 @@ Everyone in Github is welcomed to contribute to this collection.
 
 ## Contents
 ### Theory
-1. **On causal and anticausal learning** (Schölkopf et al. 2012) [[paper](https://arxiv.org/pdf/1802.03916.pdf)]
+1. **On causal and anticausal learning** (Schölkopf et al. 2012) [[paper](https://icml.cc/2012/papers/625.pdf)]
 2. **When is invariance useful in an Out-of-Distribution Generalization problem ?** (Koyama & Yamaguchi 2020) [[paper](https://arxiv.org/pdf/2008.01883.pdf)]
 3. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
 
