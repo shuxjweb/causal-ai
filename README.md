@@ -17,9 +17,9 @@ Everyone in Github is welcomed to contribute to this collection.
 5. **Causally Invariant Predictor with Shift-Robustness.** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
 
 ### Causal Invariant Representation
-2. **Detecting and Correcting for Label Shift with Black Box Predictors** (Lipton et al. 2018) [[paper](https://arxiv.org/pdf/1802.03916.pdf)]
-3. **Conditional Adversarial Domain Adaptation** (Long et al. 2018) [[paper](https://papers.nips.cc/paper/2018/file/ab88b15733f543179858600245108dd8-Paper.pdf)]
-4. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
+1. **Detecting and Correcting for Label Shift with Black Box Predictors** (Lipton et al. 2018) [[paper](https://arxiv.org/pdf/1802.03916.pdf)]
+2. **Conditional Adversarial Domain Adaptation** (Long et al. 2018) [[paper](https://papers.nips.cc/paper/2018/file/ab88b15733f543179858600245108dd8-Paper.pdf)]
+3. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
 
 ### Invariant Risk Minimization
 1. **Invariant Risk Minimization** (Arjovsky et al. 2020) [[paper](https://arxiv.org/pdf/1907.02893.pdf)]
