@@ -10,11 +10,11 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
 
 ### Causal Invariance Predictors
-1. **Causal inference using invariant prediction: identification and confidence intervals.** (Peters et al. 2015) [[paper](https://arxiv.org/pdf/1501.01332.pdf)]
+1. **Causal inference using invariant prediction: identification and confidence intervals** (Peters et al. 2015) [[paper](https://arxiv.org/pdf/1501.01332.pdf)]
 2. **Invariant Models for Causal Transfer Learning** (Rojas-Carulla et al. 2018) [[paper](https://www.jmlr.org/papers/volume19/16-432/16-432.pdf)]
-3. **Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions.** (Magliacane et al. 2018) [[paper](https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf)]
-4. **Representation Learning via Causal Mechanisms** (Mitrovic et al. 2020) [[paper](https://openreview.net/pdf?id=9p2ekP904Rs)]
-5. **Causally Invariant Predictor with Shift-Robustness.** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
+3. **Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions** (Magliacane et al. 2018) [[paper](https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf)]
+4. **Representation Learning via Invariant Causal Mechanisms** (Mitrovic et al. 2020) [[paper](https://openreview.net/pdf?id=9p2ekP904Rs)]
+5. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
 
 ### Causal Invariant Representation
 1. **Detecting and Correcting for Label Shift with Black Box Predictors** (Lipton et al. 2018) [[paper](https://arxiv.org/pdf/1802.03916.pdf)]
