@@ -15,6 +15,7 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions** (Magliacane et al. 2018) [[paper](https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf)]
 4. **Representation Learning via Invariant Causal Mechanisms** (Mitrovic et al. 2020) [[paper](https://openreview.net/pdf?id=9p2ekP904Rs)][[video summary](https://drive.google.com/file/d/1o36Uv3YJgpJPQ9XACzlOG-sDZ1psLHUD/view?usp=sharing)]
 5. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
+6. **Selecting Data Augmentation for Simulating Interventions** (Ilse et al. 2021) [[paper](http://proceedings.mlr.press/v139/ilse21a/ilse21a.pdf)]
 
 ### Causal Invariant Representation
 1. **Detecting and Correcting for Label Shift with Black Box Predictors** (Lipton et al. 2018) [[paper](https://arxiv.org/pdf/1802.03916.pdf)]
