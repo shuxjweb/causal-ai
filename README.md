@@ -34,7 +34,8 @@ Everyone in Github is welcomed to contribute to this collection.
 1. **Discovering Causal Signals in Images** (Lopez-Paz et al. 2017) [[paper](https://arxiv.org/pdf/1605.08179.pdf)]
 2. **Learning Independent Causal Mechanisms** (Parascandolo et al. 2018) [[paper](http://proceedings.mlr.press/v80/parascandolo18a/parascandolo18a.pdf)]
 3. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms** (Bengio et al. 2020) [[paper](https://openreview.net/pdf?id=ryxWIgBFPS)]
-4. **The Causal-Neural Connection: Expressiveness, Learnability, and Inference** (Xia et al. 2021) [[paper](https://causalai.net/r80.pdf)]
+4. **Learning Neural Causal Models from Unknown Interventions** (Ke et al. 2020) [[paper](https://arxiv.org/pdf/1910.01075.pdf)]
+5. **The Causal-Neural Connection: Expressiveness, Learnability, and Inference** (Xia et al. 2021) [[paper](https://causalai.net/r80.pdf)]
 
 ### Applications
 
