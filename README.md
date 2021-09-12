@@ -4,10 +4,12 @@ AI systems have been criticized for not being truly intelligent at all. They lea
 Everyone in Github is welcomed to contribute to this collection. 
 
 ## Contents
-### Theory
+### Theory / Idea
 1. **On causal and anticausal learning** (Schölkopf et al. 2012) [[paper](https://icml.cc/2012/papers/625.pdf)][[summary](https://isvy08.github.io/blog/causal-ml.html)]
-2. **When is invariance useful in an Out-of-Distribution Generalization problem ?** (Koyama & Yamaguchi 2020) [[paper](https://arxiv.org/pdf/2008.01883.pdf)]
-3. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
+2. **Causality for Machine Learning** (Bernhard Schölkopf 2019) [[paper](https://arxiv.org/pdf/1911.10500.pdf)]
+3.* **Towards Causal Representation Learning** (Schölkopf et al. 2012) [[paper](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf)]
+4. **When is invariance useful in an Out-of-Distribution Generalization problem ?** (Koyama & Yamaguchi 2020) [[paper](https://arxiv.org/pdf/2008.01883.pdf)]
+5. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
 
 ### Causal Invariance Predictors [[summary](https://isvy08.github.io/blog/causal-ip.html)]
 1. **Causal inference using invariant prediction: identification and confidence intervals** (Peters et al. 2015) [[paper](https://arxiv.org/pdf/1501.01332.pdf)]
@@ -41,6 +43,10 @@ Everyone in Github is welcomed to contribute to this collection.
 * **Two Causal Principles for Improving Visual Dialog** (Qi et al. 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.pdf)]
 * **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 * **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
+
+#### 2. NLP
+* **Causal Effects of Linguistic Properties** (Pryzanr et al. 2020) [[paper](https://arxiv.org/abs/2010.12919)]
+* **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond** (Feder et al. 2021) [[paper](https://arxiv.org/abs/2109.00725)]
 
 <hr>
 
