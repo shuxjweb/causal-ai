@@ -7,7 +7,7 @@ Everyone in Github is welcomed to contribute to this collection.
 ### Theory / Idea
 1. **On causal and anticausal learning** (Schölkopf et al. 2012) [[paper](https://icml.cc/2012/papers/625.pdf)][[summary](https://isvy08.github.io/blog/causal-ml.html)]
 2. **Causality for Machine Learning** (Bernhard Schölkopf 2019) [[paper](https://arxiv.org/pdf/1911.10500.pdf)]
-3. **Towards Causal Representation Learning** (Schölkopf et al. 2012) [[paper](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf)]
+3. **Towards Causal Representation Learning** (Schölkopf et al. 2020) [[paper](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf)]
 4. **When is invariance useful in an Out-of-Distribution Generalization problem ?** (Koyama & Yamaguchi 2020) [[paper](https://arxiv.org/pdf/2008.01883.pdf)]
 5. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
 
