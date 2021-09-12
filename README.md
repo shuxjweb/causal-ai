@@ -1,5 +1,5 @@
 # do(Y)
-AI systems have been criticized for not being truly intelligent at all. They learn fast but reason lazily, thus tend to have biases and poor generalization. There has been a recent explosion in papers attempting to solve this by using causal inference theories. This repo bridges the gap between researchers and the progress in this field. 
+AI systems have been criticized for not being truly intelligent at all. They learn fast but reason lazily, thus tend to be biased, have poor generalization and vulnerable to adversarial attacks. There has been a recent explosion in papers attempting to solve this by using causal inference theories. This repo bridges the gap between researchers and the progress in this field. 
 
 Everyone in Github is welcomed to contribute to this collection. 
 
@@ -30,6 +30,7 @@ Everyone in Github is welcomed to contribute to this collection.
 1. **Discovering Causal Signals in Images** (Lopez-Paz et al. 2017) [[paper](https://arxiv.org/pdf/1605.08179.pdf)]
 2. **Learning Independent Causal Mechanisms** (Parascandolo et al. 2018) [[paper](http://proceedings.mlr.press/v80/parascandolo18a/parascandolo18a.pdf)]
 3. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms** (Bengio et al. 2020) [[paper](https://openreview.net/pdf?id=ryxWIgBFPS)]
+4. **The Causal-Neural Connection: Expressiveness, Learnability, and Inference** (Xia et al. 2021) [[paper](https://causalai.net/r80.pdf)]
 
 ### Applications
 
@@ -38,5 +39,9 @@ Everyone in Github is welcomed to contribute to this collection.
 * **Two Causal Principles for Improving Visual Dialog** (Qi et al. 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.pdf)]
 * **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 * **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
-   
+
+
+### Causal Inference Theories
+* **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim, Correa, Ibeling & Icard) [[chapter 1](https://causalai.net/r60.pdf)]
+
 
