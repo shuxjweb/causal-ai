@@ -42,7 +42,7 @@ Everyone in Github is welcomed to contribute to this collection.
 * **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
 
 
-## Relevant Causal Inference Literature
+## Related Causal Inference Literature
 * **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim, Correa, Ibeling & Icard) [[chapter 1](https://causalai.net/r60.pdf)]
 * **A Survey of Learning Causality with Data: Problems and Methods** (Guo et al. 2020) [[paper](https://arxiv.org/pdf/1809.09337.pdf)]
 
