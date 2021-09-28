@@ -30,7 +30,7 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization** (Ahuja et al. 2021) [[paper](https://arxiv.org/pdf/2106.06607.pdf)]
 4. **Out-of-Distribution Generalization via Risk Extrapolation** (Krueger et al. 2021) [[paper](http://proceedings.mlr.press/v139/krueger21a/krueger21a.pdf)]
 
-### Causal Mechanisms Learning
+### Causal Discovery / Structural Learning
 1. **Discovering Causal Signals in Images** (Lopez-Paz et al. 2017) [[paper](https://arxiv.org/pdf/1605.08179.pdf)]
 2. **Learning Independent Causal Mechanisms** (Parascandolo et al. 2018) [[paper](http://proceedings.mlr.press/v80/parascandolo18a/parascandolo18a.pdf)]
 3. **A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms** (Bengio et al. 2020) [[paper](https://openreview.net/pdf?id=ryxWIgBFPS)]
