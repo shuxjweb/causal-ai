@@ -56,7 +56,7 @@ Everyone in Github is welcomed to contribute to this collection.
 * **Primer: Causal Inference in Statistics** (Pearl, Glymour & Jewell) [[book](http://bayes.cs.ucla.edu/PRIMER/)]
 * **Causal inference in statistics: An overview** (Judea Pearl 2009) [[paper](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)]
 * **Causal Inference: What If** (Robins & Hernan 2010) [[book](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_1oct19.pdf)]
-* **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim, Correa, Ibeling & Icard) [[chapter 1](https://causalai.net/r60.pdf)]
+* **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim et al. 2020) [[chapter 1](https://causalai.net/r60.pdf)]
 * **A Survey of Learning Causality with Data: Problems and Methods** (Guo et al. 2020) [[paper](https://arxiv.org/pdf/1809.09337.pdf)]
 * **Generalized Score Functions for Causal Discovery** (Huang et al. 2018) [[paper](https://www.kdd.org/kdd2018/accepted-papers/view/generalized-score-functions-for-causal-discovery)]
 
