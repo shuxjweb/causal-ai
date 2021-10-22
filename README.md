@@ -48,6 +48,7 @@ Everyone in Github is welcomed to contribute to this collection.
 #### 2. NLP
 * **Causal Effects of Linguistic Properties** (Pryzanr et al. 2020) [[paper](https://arxiv.org/abs/2010.12919)]
 * **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond** (Feder et al. 2021) [[paper](https://arxiv.org/abs/2109.00725)]
+* **Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP** (Jin et al. 2021) [[paper](https://arxiv.org/pdf/2110.03618.pdf)]
 
 <hr>
 
