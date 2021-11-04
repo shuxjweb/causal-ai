@@ -47,6 +47,7 @@ Everyone in Github is welcomed to contribute to this collection.
 * **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
 
 #### 2. NLP
+* **Counterfactual Story Reasoning and Generation** (Qin et et. 2019) [[paper](https://arxiv.org/pdf/1909.04076.pdf)]
 * **Causal Effects of Linguistic Properties** (Pryzanr et al. 2020) [[paper](https://arxiv.org/abs/2010.12919)]
 * **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond** (Feder et al. 2021) [[paper](https://arxiv.org/abs/2109.00725)]
 * **Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP** (Jin et al. 2021) [[paper](https://arxiv.org/pdf/2110.03618.pdf)]
