@@ -58,6 +58,7 @@ Everyone in Github is welcomed to contribute to this collection.
 2. **Primer: Causal Inference in Statistics** (Pearl, Glymour & Jewell) [[book](http://bayes.cs.ucla.edu/PRIMER/)]
 3. **Causal Inference In Statistics: An Overview** (Judea Pearl 2009) [[paper](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)]
 4. **Causal Inference: What If** (Robins & Hernan 2010) [[book](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2019/10/ci_hernanrobins_1oct19.pdf)]
-5. **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim et al. 2020) [[chapter 1](https://causalai.net/r60.pdf)]
+5. **Elements of Causal Inference** (Peteres, Janzing, Scholkopf 2017) [[book](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)]
+6. **On Pearl’s Hierarchy and the Foundations of Causal Inference** (Bareinboim et al. 2020) [[chapter 1](https://causalai.net/r60.pdf)]
 
 
