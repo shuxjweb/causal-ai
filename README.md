@@ -11,7 +11,7 @@ Everyone in Github is welcomed to contribute to this collection.
 4. **Towards Causal Representation Learning** (Schölkopf et al. 2020) [[paper](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/toward_causal_representation_learning.pdf)]
 5. **Adversarial Robustness through the Lens of Causality** (Zhang et al. 2021) [[paper](https://arxiv.org/pdf/2106.06196.pdf)]
 
-### II. Learning Invariant Distribution
+### II. Learning Invariant Distribution / Represenation
 1. **Causal Inference Using Invariant Prediction: identification and confidence intervals** (Peters et al. 2015) [[paper](https://arxiv.org/pdf/1501.01332.pdf)]
 2. **Invariant Models for Causal Transfer Learning** (Rojas-Carulla et al. 2018) [[paper](https://www.jmlr.org/papers/volume19/16-432/16-432.pdf)]
 3. **Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions** (Magliacane et al. 2018) [[paper](https://proceedings.neurips.cc/paper/2018/file/39e98420b5e98bfbdc8a619bef7b8f61-Paper.pdf)]
@@ -20,6 +20,8 @@ Everyone in Github is welcomed to contribute to this collection.
 6. **Representation Learning via Invariant Causal Mechanisms** (Mitrovic et al. 2020) [[paper](https://openreview.net/pdf?id=9p2ekP904Rs)][[video summary](https://youtu.be/z3trcLQjLNU)]
 7. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
 8. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
+9. **Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions** (Zhang et al. 2021) [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
+10. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
 
 ### III. Invariant Risk Minimization
 1. **Invariant Risk Minimization** (Arjovsky et al. 2020) [[paper](https://arxiv.org/pdf/1907.02893.pdf)]
@@ -44,13 +46,14 @@ Everyone in Github is welcomed to contribute to this collection.
 2. **Two Causal Principles for Improving Visual Dialog** (Qi et al. 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Two_Causal_Principles_for_Improving_Visual_Dialog_CVPR_2020_paper.pdf)]
 3. **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 4. **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
+5. **Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering** (Chen et al. 2021) [[paper](https://arxiv.org/pdf/2110.01013.pdf)]
+
 
 ### VI. NLP
 1. **Counterfactual Story Reasoning and Generation** (Qin et al. 2019) [[paper](https://arxiv.org/pdf/1909.04076.pdf)]
 2. **Causal Effects of Linguistic Properties** (Pryzanr et al. 2020) [[paper](https://arxiv.org/abs/2010.12919)]
 3. **Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond** (Feder et al. 2021) [[paper](https://arxiv.org/abs/2109.00725)]
 4. **Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP** (Jin et al. 2021) [[paper](https://arxiv.org/pdf/2110.03618.pdf)]
-5. **Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering** (Chen et al. 2021) [[paper](https://arxiv.org/pdf/2110.01013.pdf)]
 
 <hr>
 
