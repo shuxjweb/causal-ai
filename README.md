@@ -21,6 +21,7 @@ Everyone in Github is welcomed to contribute to this collection.
 7. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
 8. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
 9. **Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions** (Zhang et al. 2021) [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
+10. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style** (Kügelgen et al. 2021) [[paper](https://arxiv.org/pdf/2106.04619.pdf)]
 
 
 ### III. Invariant Risk Minimization
@@ -38,7 +39,6 @@ Everyone in Github is welcomed to contribute to this collection.
 5. **Learning Neural Causal Models from Unknown Interventions** (Ke et al. 2020) [[paper](https://arxiv.org/pdf/1910.01075.pdf)]
 6. **Selecting Data Augmentation for Simulating Interventions** (Ilse et al. 2021) [[paper](http://proceedings.mlr.press/v139/ilse21a/ilse21a.pdf)]
 7. **The Causal-Neural Connection: Expressiveness, Learnability, and Inference** (Xia et al. 2021) [[paper](https://causalai.net/r80.pdf)]
-8. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style** (Kügelgen et al. 2021) [[paper](https://arxiv.org/pdf/2106.04619.pdf)]
 
 ### Applications
 
