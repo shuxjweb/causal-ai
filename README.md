@@ -48,7 +48,7 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 4. **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
 5. **Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering** (Chen et al. 2021) [[paper](https://arxiv.org/pdf/2110.01013.pdf)]
-6. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
+6. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf)]
 
 
 ### VI. NLP
