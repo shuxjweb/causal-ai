@@ -21,7 +21,7 @@ Everyone in Github is welcomed to contribute to this collection.
 7. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
 8. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
 9. **Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions** (Zhang et al. 2021) [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
-10. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
+
 
 ### III. Invariant Risk Minimization
 1. **Invariant Risk Minimization** (Arjovsky et al. 2020) [[paper](https://arxiv.org/pdf/1907.02893.pdf)]
@@ -48,6 +48,7 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 4. **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
 5. **Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering** (Chen et al. 2021) [[paper](https://arxiv.org/pdf/2110.01013.pdf)]
+6. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
 
 
 ### VI. NLP
