@@ -20,7 +20,7 @@ Everyone in Github is welcomed to contribute to this collection.
 6. **Representation Learning via Invariant Causal Mechanisms** (Mitrovic et al. 2020) [[paper](https://openreview.net/pdf?id=9p2ekP904Rs)][[video summary](https://youtu.be/z3trcLQjLNU)]
 7. **Domain Generalization using Causal Matching** (Mahajan et al. 2021) [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2021/06/DG_with_causal_matching.pdf)]
 8. **Causally Invariant Predictor with Shift-Robustness** (Zheng et al. 2021) [[paper](https://arxiv.org/pdf/2107.01876.pdf)]
-9. **Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions** (Zhang et al. 2021) [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
+9. **Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions** (Zhang et al. 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf)]
 10. **Self-Supervised Learning with Data Augmentations Provably Isolates Content from Style** (Kügelgen et al. 2021) [[paper](https://arxiv.org/pdf/2106.04619.pdf)]
 
 
@@ -48,8 +48,7 @@ Everyone in Github is welcomed to contribute to this collection.
 3. **Causal Attention for Vision-Language Tasks** (Yang et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Causal_Attention_for_Vision-Language_Tasks_CVPR_2021_paper.pdf)]
 4. **Counterfactual VQA: A Cause-Effect Look at Language Bias** (Niu et al. 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.pdf)]
 5. **Counterfactual Samples Synthesizing and Training for Robust Visual Question Answering** (Chen et al. 2021) [[paper](https://arxiv.org/pdf/2110.01013.pdf)]
-6. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf)]
-
+6. **Visual Commonsense Representation Learning via Causal Inference** (Wang et al. 2021) [[paper](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w26/Wang_Visual_Commonsense_Representation_Learning_via_Causal_Inference_CVPRW_2020_paper.pdf)]
 
 ### VI. NLP
 1. **Counterfactual Story Reasoning and Generation** (Qin et al. 2019) [[paper](https://arxiv.org/pdf/1909.04076.pdf)]
